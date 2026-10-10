@@ -19,9 +19,9 @@ English / [中文](README_CN.md)
 
 ***
 
-> **Scope**: The client supplies a "hybrid pile of complete content" (a thesis, project report, informal notes, or other raw material) and needs a journal paper that is **accurate in content, standardized in layout, academic in style, and complete in scientific logic** (Chinese version first).
+> **Scope**: The client supplies a "hybrid pile of complete content" (init paper, project report, informal notes, or other raw material) and needs a journal paper that is **accurate in content, standardized in layout, academic in style, and complete in scientific logic** (Chinese version first).
 >
-> This SOP was distilled from the ESDS/ETD-Net paper project (2026-10; image enhancement + object detection for power-warehouse scenes; all 7 chapters completed and passed value-by-value verification). All parameters and commands have been verified in practice.
+
 
 ---
 
